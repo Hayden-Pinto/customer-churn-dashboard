@@ -126,9 +126,10 @@ customer-churn-analysis/
 ├── data/
 │   └── dataset.csv
 ├── powerbi/
-│   └── churn_dashboard.pbix
+│   └── dashboard.pbix
 ├── images/
 │   ├── overview.png
+│   ├── measures.png
 │   ├── segmentation.png
 │   ├── interaction.png
 │   └── insight.png
