@@ -114,8 +114,9 @@ Analysis revealed:
 - Context-aware KPI calculation  
 - Data validation and quality control  
 - Segmentation and behavioural analysis  
-- Business-focused data storytelling  
-
+- Business-focused data storytelling
+- Project documentation via GitHub
+ 
 ---
 
 ## 📁 Repository Structure
