@@ -65,7 +65,7 @@ Measures were designed to dynamically adjust across filter contexts, enabling ac
 
 ### Executive Overview
 
-![01_Overview](03_images/01_overview.png)
+![01_overview](03_images/01_overview.png)
 
 Provides high-level KPIs including churn rate and customer metrics.
 
@@ -73,7 +73,7 @@ Provides high-level KPIs including churn rate and customer metrics.
 
 ### Segmentation Analysis
 
-![02_Segmentation](03_images/02_segmentation.png)
+![02_segmentation](03_images/02_segmentation.png)
 
 Breaks down churn behaviour across demographic and behavioural variables.
 
@@ -81,7 +81,7 @@ Breaks down churn behaviour across demographic and behavioural variables.
 
 ### Interactive Exploration
 
-![04_Interaction](03_images/03_interaction.png)
+![03_interaction](03_images/03_interaction.png)
 
 Demonstrates cross-filtering and slicer functionality, allowing dynamic exploration of churn drivers.
 
@@ -89,7 +89,7 @@ Demonstrates cross-filtering and slicer functionality, allowing dynamic explorat
 
 ### Key Insights
 
-![03_Insight](03_images/04_insight.png)
+![04_insight](03_images/04_insight.png)
 
 Analysis revealed:
 
