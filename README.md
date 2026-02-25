@@ -65,7 +65,7 @@ Measures were designed to dynamically adjust across filter contexts, enabling ac
 
 ### Executive Overview
 
-![Overview](images/overview.png)
+![01_Overview](03_images/01_overview.png)
 
 Provides high-level KPIs including churn rate and customer metrics.
 
@@ -73,7 +73,7 @@ Provides high-level KPIs including churn rate and customer metrics.
 
 ### Segmentation Analysis
 
-![Segmentation](images/segmentation.png)
+![02_Segmentation](03_images/02_segmentation.png)
 
 Breaks down churn behaviour across demographic and behavioural variables.
 
@@ -81,7 +81,7 @@ Breaks down churn behaviour across demographic and behavioural variables.
 
 ### Interactive Exploration
 
-![Interaction](images/interaction.png)
+![04_Interaction](03_images/03_interaction.png)
 
 Demonstrates cross-filtering and slicer functionality, allowing dynamic exploration of churn drivers.
 
@@ -89,7 +89,7 @@ Demonstrates cross-filtering and slicer functionality, allowing dynamic explorat
 
 ### Key Insights
 
-![Insight](images/insight.png)
+![03_Insight](03_images/04_insight.png)
 
 Analysis revealed:
 
@@ -123,16 +123,16 @@ Analysis revealed:
 ```
 customer-churn-analysis/
 │
-├── data/
-│   └── dataset.csv
-├── powerbi/
-│   └── dashboard.pbix
-├── images/
-│   ├── overview.png
-│   ├── measures.png
-│   ├── segmentation.png
-│   ├── interaction.png
-│   └── insight.png
+├── 01_data/
+│   └── 01_dataset.csv
+├── 02_powerbi/
+│   └── 01_dashboard.pbix
+├── 03_images/
+│   ├── 01_overview.png
+│   ├── 02_measures.png
+│   ├── 03_segmentation.png
+│   ├── 04_interaction.png
+│   └── 05_insight.png
 └── README.md
 ```
 
