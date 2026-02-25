@@ -129,10 +129,10 @@ customer-churn-analysis/
 │   └── 01_dashboard.pbix
 ├── 03_images/
 │   ├── 01_overview.png
-│   ├── 02_measures.png
-│   ├── 03_segmentation.png
-│   ├── 04_interaction.png
-│   └── 05_insight.png
+│   ├── 02_segmentation.png
+│   ├── 03_interaction.png
+│   ├── 04_insight.png
+│   └── 05_measures.png
 └── README.md
 ```
 
